@@ -1,0 +1,39 @@
+{
+    "GetAllCustomersResult": [
+        {
+            "City": "Berlin",
+            "CompanyName": "Account 1",
+            "CustomerID": "ACC1"
+        },
+        {
+            "City": "Berlin",
+            "CompanyName": "Account 2",
+            "CustomerID": "ACC2"
+        },
+        {
+            "City": "Berlin",
+            "CompanyName": "Account 3",
+            "CustomerID": "ACC3"
+        },
+        {
+            "City": "Berlin",
+            "CompanyName": "Account 4",
+            "CustomerID": "ACC4"
+        },
+        {
+            "City": "Berlin",
+            "CompanyName": "Account 5",
+            "CustomerID": "ACC5"
+        },
+        {
+            "City": "Berlin",
+            "CompanyName": "Account 6",
+            "CustomerID": "ACC6"
+        },
+        {
+            "City": "Warszawa",
+            "CompanyName": "Account 7",
+            "CustomerID": "ACC7"
+        }
+    ]
+}
